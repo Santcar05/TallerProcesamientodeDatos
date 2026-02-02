@@ -1,3 +1,5 @@
 # TallerProcesamientodeDatos
 # GRUPO: LUMA 2
-![[soloLuma.png]]
+<div align="center">
+  <img src="soloLuma.png" width="500px">
+</div>
