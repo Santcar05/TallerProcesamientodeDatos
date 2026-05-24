@@ -1,8 +1,4 @@
-# TallerProcesamientodeDatos
 # GRUPO: LUMA 2
-<div align="center">
-  <img src="soloLuma.png" width="500px">
-</div>
 
 # Brechas Educativas y de Conectividad en Colombia
 Proyecto analítico desarrollado para el curso Procesamiento de Datos a Gran Escala - Pontificia Universidad Javeriana.
@@ -23,3 +19,7 @@ Proyecto_2_entrega.ipynb - Entendimiento del negocio, exploración y descripció
 - Juan Felipe Parrales Lara
 - Juan Pablo Morales
 - Cristian Muñoz
+
+<div align="center">
+  <img src="soloLuma.png" width="500px">
+</div>
